@@ -15,6 +15,7 @@ public class DemoApplication {
         for (String beanName : names) {
             System.out.println(beanName);
         }
+        System.out.println("测试git");
     }
 
 }
