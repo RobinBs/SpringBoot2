@@ -1,0 +1,14 @@
+person:
+  userName: baishuo
+  boss: true
+  birth: 1997/3/13
+  age: 25
+  interests:
+    - 篮球
+    - 乒乓球
+    - 密室逃脱
+  animal: [猫, 狗]
+  score: {english:98,math:100}
+  salarys:
+    - 22222
+    - 33333

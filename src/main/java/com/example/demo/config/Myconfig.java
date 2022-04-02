@@ -28,13 +28,13 @@ public class Myconfig {
     @Bean
     public User user01(){
         User baishuo = new User("baishuo", 25);
-        baishuo.setPet(mi());
+        //baishuo.setPet(mi());
         return baishuo;
     }
     @Bean
     public User user02(){
         User zhangsan = new User("zhangsan", 18);
-        zhangsan.setPet(mi());
+        //zhangsan.setPet(mi());
         return zhangsan;
     }
     // 在容器中默认是单实例的

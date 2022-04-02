@@ -19,9 +19,9 @@ public class User {
         return pet;
     }
 
-    public void setPet(Pet pet) {
-        this.pet = pet;
-    }
+//    public void setPet(Pet pet) {
+//        this.pet = pet;
+//    }
 
     public String getName() {
         return name;

@@ -28,6 +28,16 @@
             <artifactId>spring-boot-starter-test</artifactId>
             <scope>test</scope>
         </dependency>
+        <dependency>
+            <artifactId>spring-context</artifactId>
+            <groupId>org.springframework</groupId>
+            <version>5.3.17</version>
+        </dependency>
+        <dependency>
+            <artifactId>spring-boot</artifactId>
+            <groupId>org.springframework.boot</groupId>
+            <version>2.6.5</version>
+        </dependency>
     </dependencies>
 
     <build>

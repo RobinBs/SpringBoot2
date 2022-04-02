@@ -2,6 +2,15 @@ package com.example.demo.bean;
 
 public class Pet {
     private String name;
+    private Double weight;
+
+    public Double getWeight() {
+        return weight;
+    }
+
+    public void setWeight(Double weight) {
+        this.weight = weight;
+    }
 
     @Override
     public String toString() {
